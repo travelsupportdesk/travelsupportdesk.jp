@@ -1962,6 +1962,7 @@ Main Header
 .main-header .logo {
   position: relative;
   display: block;
+  width: 100%;
 }
 .main-header .logo img {
   width: 100%;
@@ -2911,6 +2912,8 @@ Section Title
   font-weight: 500;
   letter-spacing: 0.01em;
   text-transform: capitalize;
+  white-space: nowrap;
+  margin-top: 10px;
 }
 .main-slider .text {
   font-size: 18px;
