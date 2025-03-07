@@ -2106,7 +2106,6 @@ Header Style One
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: -40px;
   padding: 20px 20px;
   background-color: #ffffff;
 }
